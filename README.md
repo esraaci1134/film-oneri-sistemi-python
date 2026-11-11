@@ -1,4 +1,3 @@
-
 # 🎬 FILMPERSONA: MBTI & Estetik Tercih Odaklı Akıllı Film Öneri Platformu
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -59,13 +58,13 @@ Streamlit Framework              Python Engine & pandas                 Firebase
 ## 📁 Proje Dosya Yapısı
 
 ```
-FILMPERSONA/
+film-oneri-sistemi-python/
 ├── arayuz.py                 # Streamlit ön yüz tasarımı ve API sorgu yönetimi
 ├── hazirlik.py               # MBTI skorlama motoru ve Firestore bağlantı fonksiyonları
 ├── serviceAccountKey.json    # Firebase Cloud güvenlik sertifikası (Local dev)
 ├── requirements.txt          # Proje bağımlılıkları
+├── tmdb_5000_movies.csv      # Kullanılan veri seti
 └── README.md                 # Proje dokümantasyonu
-└── tmdb_5000_movies.csv      # Kullanılan veri seti
 
 ---
 
