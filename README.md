@@ -65,7 +65,7 @@ FILMPERSONA/
 ├── serviceAccountKey.json    # Firebase Cloud güvenlik sertifikası (Local dev)
 ├── requirements.txt          # Proje bağımlılıkları
 └── README.md                 # Proje dokümantasyonu
-```
+└── tmdb_5000_movies.csv      # Kullanılan veri seti
 
 ---
 
